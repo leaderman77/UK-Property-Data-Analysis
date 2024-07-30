@@ -4,17 +4,16 @@ This repository presents an extensive analysis of the UK property market, levera
 
 # Datasets Used
 1. Property Price Data
-
-Source: UK Government's Price Paid Data
-Details: This dataset contains records of UK property transactions from June 9, 1995, to May 30, 2024, including prices and transaction types.
+- Source: UK Government's Price Paid Data
+- Details: This dataset contains records of UK property transactions from June 9, 1995, to May 30, 2024, including prices and transaction types.
 
 2. Postcodes (NSPL)
-Source: ONS Geoportal NSPL
-Details: The National Statistics Postcode Lookup (NSPL) provides a comprehensive list of postcodes in the UK along with corresponding administrative, health, and other geographic areas.
+- Source: ONS Geoportal NSPL
+- Details: The National Statistics Postcode Lookup (NSPL) provides a comprehensive list of postcodes in the UK along with corresponding administrative, health, and other geographic areas.
 
 3. British National Grid Shapefiles
-Source: OSGB Grids on GitHub
-Details: Shapefiles for the British National Grid, used for detailed geospatial analysis and mapping at a 10km resolution.
+- Source: OSGB Grids on GitHub
+- Details: Shapefiles for the British National Grid, used for detailed geospatial analysis and mapping at a 10km resolution.
 
 # Technologies Used
 - Python: For data manipulation and analysis.
