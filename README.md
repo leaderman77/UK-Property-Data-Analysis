@@ -20,6 +20,14 @@ This repository presents an extensive analysis of the UK property market, levera
 - Pandas and GeoPandas: Used for handling large datasets and performing spatial data analysis.
 - Matplotlib and Seaborn: For creating visualizations.
 - Jupyter Notebooks: For documenting the analysis process step-by-step.
+Here are a few key visualizations created during this analysis:
+
+### Visualizations
+ - Shows the distribution of property sales across the UK.
+ - Depicts the trends in property prices over the study period.
+![image](https://github.com/user-attachments/assets/843ae176-0b70-414d-bb7a-fd82bb0ff943)
+
+![image](https://github.com/user-attachments/assets/e6405684-53a9-42df-b7d8-0e8af583b579)
 
 ### Key Insights
 - Trends Over Time: Analysis of property price fluctuations and trends from 1995 to 2024.
